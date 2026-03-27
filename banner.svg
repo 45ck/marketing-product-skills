@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="marketing-product-skills banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c2d12"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <circle cx="180" cy="90" r="160" fill="#fde68a" opacity="0.14"/>
+  <circle cx="1060" cy="290" r="180" fill="#fdba74" opacity="0.14"/>
+  <text x="70" y="140" fill="#fff7ed" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">marketing-product-skills</text>
+  <text x="70" y="200" fill="#ffedd5" font-family="Segoe UI, Arial, sans-serif" font-size="26">Positioning, growth, activation, analytics, launch, SEO, and pricing skills.</text>
+  <g transform="translate(840 96)">
+    <path d="M0 148c38-8 68-32 88-72 24 32 54 52 128 60-38 34-88 52-150 52-22 0-43-2-66-10z" fill="#fde68a"/>
+    <circle cx="74" cy="48" r="18" fill="#fff7ed"/>
+    <circle cx="154" cy="82" r="13" fill="#fdba74"/>
+  </g>
+</svg>

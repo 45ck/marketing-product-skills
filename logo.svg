@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="marketing-product-skills logo">
+  <rect width="256" height="256" rx="40" fill="#b45309"/>
+  <rect x="38" y="38" width="180" height="180" rx="28" fill="#7c2d12"/>
+  <path d="M66 160c28-8 48-28 58-58 12 19 29 33 66 40-21 16-46 26-82 26-15 0-28-2-42-8z" fill="#fde68a"/>
+  <circle cx="96" cy="92" r="14" fill="#fffbeb"/>
+  <circle cx="160" cy="120" r="10" fill="#fed7aa"/>
+</svg>

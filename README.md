@@ -29,12 +29,18 @@ A platform-neutral skill pack for product strategy, growth, activation, analytic
 - `launch-plan`
 - `pricing-packaging-hypothesis`
 
+## Features
+
+- Covers product metrics, onboarding, retention, experimentation, and go-to-market work
+- Mirrors packaged skills into both `.claude/skills/` and `.agents/skills/`
+- Keeps the repo naming and documentation platform-neutral
+
 ## Install
 
 ### Option A: Install globally
 
 ```bash
-git clone https://github.com/your-name/marketing-product-skills.git
+git clone https://github.com/45ck/marketing-product-skills.git
 cd marketing-product-skills
 bash install.sh
 ```
@@ -83,11 +89,11 @@ uninstall.sh                         global uninstaller
 LICENSE                              MIT
 ```
 
-## Notes
+## Related skill packs
 
-- The packaged folders are mirrored so the repo can be reused across different assistant environments.
-- The repo name and docs are intentionally neutral and do not lock the pack to one tool.
-- The original upstream naming has been removed from the public-facing wrapper files.
+- [business-analysis-skills](https://github.com/45ck/business-analysis-skills) - Business analysis techniques, workflows, and quality checks
+- [hci-review-skill](https://github.com/45ck/hci-review-skill) - Structured HCI and UX review skills for prototypes and product interfaces
+- [fagan-inspection-skill](https://github.com/45ck/fagan-inspection-skill) - Formal inspection and defect-review skills for code changes
 
 ## License
 

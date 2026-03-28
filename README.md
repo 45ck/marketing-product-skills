@@ -89,6 +89,12 @@ uninstall.sh                         global uninstaller
 LICENSE                              MIT
 ```
 
+## Related workflow agents
+
+- [requirements-analyst](https://github.com/45ck/workflow-agents) - Frame product and market asks into decision-ready requirements
+- [delivery-manager](https://github.com/45ck/workflow-agents) - Coordinate launch and delivery planning
+- [research-writer](https://github.com/45ck/workflow-agents) - Turn market evidence into structured written outputs
+
 ## Related skill packs
 
 - [business-analysis-skills](https://github.com/45ck/business-analysis-skills) - Business analysis techniques, workflows, and quality checks
